@@ -177,6 +177,13 @@ body {
     color:#111;
 }
 
+#banner h3 {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size:18px;
+    font-weight:300;
+    color:#cc0066;
+}
+
 
 /* Section Title and Subtitle */
 
